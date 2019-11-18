@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using frmou.Data;
 using frmou.Models;
 using frmou.Services;
+using frmou.Data.Models;
 
 namespace frmou
 {
