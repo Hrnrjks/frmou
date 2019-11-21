@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frmou", "frmou\frmou.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frmou.Data", "frmou.Data\frmou.Data.csproj", "{7C5605AD-A367-4293-A6B3-33B5D6B53913}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmou.Service", "frmou.Service\frmou.Service.csproj", "{12B5745E-0AEE-4183-8563-B798C970541B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "frmou.Service", "frmou.Service\frmou.Service.csproj", "{12B5745E-0AEE-4183-8563-B798C970541B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

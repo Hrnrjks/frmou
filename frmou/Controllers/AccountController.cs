@@ -1,14 +1,14 @@
-﻿using System;
-using System.Security.Claims;
-using System.Threading.Tasks;
+﻿using frmou.Data.Models;
+using frmou.Models.AccountViewModels;
+using frmou.Services;
 using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using frmou.Models.AccountViewModels;
-using frmou.Services;
-using frmou.Data.Models;
+using System;
+using System.Security.Claims;
+using System.Threading.Tasks;
 
 namespace frmou.Controllers
 {

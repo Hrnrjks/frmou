@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\frmou.Data\frmou.Data.csproj" />
+    <ProjectReference Include="..\frmou.Service\frmou.Service.csproj" />
   </ItemGroup>
 
 </Project>

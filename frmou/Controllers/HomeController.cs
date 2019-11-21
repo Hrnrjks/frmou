@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using frmou.Models;
 using Microsoft.AspNetCore.Mvc;
-using frmou.Models;
+using System.Diagnostics;
 
 namespace frmou.Controllers
 {

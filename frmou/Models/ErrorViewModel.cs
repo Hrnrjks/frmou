@@ -1,5 +1,3 @@
-using System;
-
 namespace frmou.Models
 {
     public class ErrorViewModel
