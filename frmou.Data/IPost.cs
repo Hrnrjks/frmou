@@ -9,8 +9,9 @@ namespace frmou.Data
     public interface IPost
     {
         Post GetById(int id);
-        IEnumerable<IPost> GetAll();
-        IEnumerable<IPost> GetFilteredPosts(string searchQuery);
+        IEnumerable<Post> GetAll();
+        IEnumerable<Post> GetFilteredPosts(string searchQuery);
+        IEnumerable<Post> GetPostsByForum(int id);
 
         Task Add(IPost post);
         Task Delete(int id);
